@@ -1,0 +1,86 @@
+{
+    "name": "tekwave",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.4.84",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone 5",
+                "builtIn": true,
+                "height": 568,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "iosSimulate",
+            "display": "Simulate iOS app"
+        },
+        "displayfield-ExtBox1-1278-inputEl": "Not Installed",
+        "displayfield-ExtBox1-1285-inputEl": "Not Installed",
+        "displayfield-ExtBox1-1279-inputEl": "Not Installed"
+    },
+    "xdsVersion": "3.0.4",
+    "xdsBuild": 1386,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "ae79357c-26e3-41ed-874c-6b8a5f189fb0",
+            "0c468f1d-19da-4e92-8a2a-0af93aee6470",
+            "042051cc-6e20-4cf0-86ec-d4de643607b2"
+        ],
+        "store": [
+            "8b4efd8b-4d8e-40cc-862a-eb8e722702e8",
+            "323580cd-617f-48a0-8736-c1dac79be3f1",
+            "066fc035-9222-4624-bcaf-083c52e71372",
+            "df685d45-d9a3-4b7b-9ab2-03708846049b",
+            "ce7e5272-a4d6-44a6-adac-ae1e2e561d39",
+            "e6f2553b-9834-4b8f-a127-e039cf1ab5c2",
+            "7f6f1c1b-9741-45c3-9d27-861b7a2270b3",
+            "f1d675a2-bac6-462a-ae43-84520de6e630",
+            "3738efc6-3360-4d30-a7c7-c294a43b941f",
+            "0fcc8cf8-da49-4155-9b46-e75846e2f784",
+            "a615a89c-c835-4047-a1d5-cb2c24a7577c"
+        ],
+        "controller": [
+            "a1e2e43d-5821-4519-a28f-700d16595466",
+            "1025d9b9-dcb2-48b6-8761-9ef96b1e055c",
+            "a0354467-368f-4dbf-b5f2-201f02254da6"
+        ],
+        "model": [
+            "d1b2d25f-46b1-4f5e-83d7-f6795597cd7b",
+            "4762d46f-3c42-447e-82fa-7c24581d9b4d",
+            "d21f24ce-58cf-456b-b697-7884602eacea",
+            "f77baa54-8c42-432b-b85a-20460990b0b8",
+            "5de5988e-fae0-4ff1-8d14-1bf174d396dd",
+            "aaac4fb0-0156-4b42-9e02-ae8a91090cbd"
+        ],
+        "resource": [
+            "8f3f8210-7710-4337-ba86-c9d46f9aa04f",
+            "c06d71a9-cce6-43b5-8b05-25387b3b6380",
+            "ca2c765a-8301-4457-889b-ae06a22e6d08",
+            "1544bca4-0a81-474c-8708-cebc76e7fa06",
+            "96064c7f-8b8f-4a6f-9ef2-2b910a32da42",
+            "397ebe55-6ce3-4f73-806b-8017e02b5a3e",
+            "34f61887-4e03-407c-8580-b2a0d2e0be30",
+            "6c0bfc54-57d2-4102-b3a2-6f46670448fe"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

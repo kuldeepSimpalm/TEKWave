@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js3",
+        "url": "ux/signaturefield.js"
+    },
+    "designerId": "34f61887-4e03-407c-8580-b2a0d2e0be30"
+}

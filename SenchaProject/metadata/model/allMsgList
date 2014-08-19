@@ -1,0 +1,98 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "allMsgList"
+    },
+    "designerId": "d21f24ce-58cf-456b-b697-7884602eacea",
+    "cn": [
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "msgId"
+            },
+            "designerId": "7f33b29f-ca00-478c-9095-f879c04ebaf3"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "senderName"
+            },
+            "designerId": "aca95f3d-95b0-4b72-9f4f-c65401122fa8"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "msg"
+            },
+            "designerId": "236fee23-0426-463d-a5b0-1002c040c96f"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "icon"
+            },
+            "designerId": "ad3b6e55-bcae-468c-a190-0da20070cfad"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "time"
+            },
+            "designerId": "e9266f03-4c26-4245-9e95-7428b90dac0f"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "leftColor"
+            },
+            "designerId": "2e95bf3f-f946-4c6f-954b-6c8e0f8f7de0"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "TCResponse"
+            },
+            "designerId": "f4b040c5-0245-4437-b8d9-8ea7ebc137cd"
+        }
+    ]
+}

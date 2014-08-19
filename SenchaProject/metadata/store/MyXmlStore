@@ -1,0 +1,44 @@
+{
+    "type": "xmlstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "autoLoad": true,
+        "data": [
+            "[",
+            "    {",
+            "     id : 1,",
+            "        data1 : 'Tuesday 6/10/14',",
+            "     icon : 'img/img/icon_weather.png',",
+            "     name : 'Cloudy 23°',",
+            "     type : 'Wheather'",
+            "    },",
+            "     {id : 2,",
+            "      data1 : 'Tuesday 6/10/14',",
+            "     icon : 'img/img/icon_clock.png',",
+            "      name : '5:00 PM',",
+            "      type : 'Time'",
+            "    },{",
+            "     id : 3,",
+            "        data1 : 'Tuesday 6/10/14',",
+            "     icon : 'img/img/icon_weather.png',",
+            "     name : 'Cloudy 23°',",
+            "     type : 'Wheather'",
+            "    },",
+            "     {id : 4,",
+            "      data1 : 'Tuesday 6/10/14',",
+            "     icon : 'img/img/icon_clock.png',",
+            "      name : '5:00 PM',",
+            "      type : 'Time'",
+            "    }",
+            "]"
+        ],
+        "designer|userClassName": "MyXmlStore",
+        "model": "homeModel",
+        "storeId": "MyXmlStore"
+    },
+    "designerId": "8b4efd8b-4d8e-40cc-862a-eb8e722702e8"
+}

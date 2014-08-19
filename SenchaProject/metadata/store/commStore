@@ -1,0 +1,48 @@
+{
+    "type": "xmlstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "autoLoad": true,
+        "data": [
+            "[",
+            "    {",
+            "    ",
+            "        data1 : '<br/>',",
+            "     icon : 'img/img/icon_messages.png',",
+            "     name : '5 Messages',",
+            "     type : 'Messages',",
+            "        nextScreen : 'allMsgCont'",
+            "    },",
+            "     {",
+            "        ",
+            "      data1 : '<br/>',",
+            "     icon : 'img/img/icon_announcements.png',",
+            "      name : '2 New',",
+            "      type : 'Announcements',",
+            "         nextScreen : 'announsMentsCont'",
+            "    },",
+            "     {",
+            "    ",
+            "       data1 : '<br/>',",
+            "     icon : 'img/img/icon_messages.png',",
+            "     name : '5 Messages',",
+            "     type : 'Messages'",
+            "    },",
+            "     {",
+            "       data1 : '<br/>',",
+            "     icon : 'img/img/icon_announcements.png',",
+            "      name : '2 New',",
+            "      type : 'Announcements'",
+            "    },",
+            "]"
+        ],
+        "designer|userClassName": "commStore",
+        "model": "homeModel",
+        "storeId": "commStore"
+    },
+    "designerId": "323580cd-617f-48a0-8736-c1dac79be3f1"
+}

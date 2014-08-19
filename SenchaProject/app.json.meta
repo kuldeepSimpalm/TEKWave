@@ -1,0 +1,1 @@
+{"_comment":"Please don't edit. This is Architect data.","name":"tekwave","css":[{"path":"custom.css"}],"js":[{"path":"ux/ux/DateTime.js"},{"path":"ux/ux/DateTimePicker.js"},{"path":"ux/signaturefield.js"},{"path":"childbrowser.js"}],"resources":[],"classpath":"${app.dir}/app,${app.dir}/ux/ux/,${app.dir}/ux/","requires":[]}

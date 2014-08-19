@@ -1,0 +1,51 @@
+{
+    "type": "xmlstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "autoLoad": true,
+        "data": [
+            "[",
+            "    {",
+            "    ",
+            "        data1 : '<br/>',",
+            "     icon : 'img/img/icon_form.png',",
+            "     name : 'Form',",
+            "     type : 'Static Form 1',",
+            "        nextScreen : 'quickLinksCont'",
+            "    },",
+            "     {",
+            "        ",
+            "      data1 : '<br/>',",
+            "     icon : 'img/img/icon_form.png',",
+            "      name : 'Form',",
+            "      type : 'Static Form 2',",
+            "        nextScreen : 'quickLinksCont'",
+            "    },",
+            "     {",
+            "    ",
+            "        data1 : '<br/>',",
+            "     icon : 'img/img/icon_form.png',",
+            "     name : 'Form',",
+            "     type : 'Static Form 1',",
+            "        nextScreen : 'quickLinksCont'",
+            "    },",
+            "     {",
+            "        ",
+            "      data1 : '<br/>',",
+            "     icon : 'img/img/icon_form.png',",
+            "      name : 'Form',",
+            "      type : 'Static Form 2',",
+            "        nextScreen : 'quickLinksCont'",
+            "    }",
+            "]"
+        ],
+        "designer|userClassName": "staticForm",
+        "model": "homeModel",
+        "storeId": "staticForm"
+    },
+    "designerId": "066fc035-9222-4624-bcaf-083c52e71372"
+}

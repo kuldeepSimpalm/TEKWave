@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js1",
+        "url": "ux/ux/DateTime.js"
+    },
+    "designerId": "96064c7f-8b8f-4a6f-9ef2-2b910a32da42"
+}

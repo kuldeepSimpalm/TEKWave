@@ -1,0 +1,86 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "homeModel"
+    },
+    "designerId": "d1b2d25f-46b1-4f5e-83d7-f6795597cd7b",
+    "cn": [
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "id"
+            },
+            "designerId": "76ad2d48-73e0-460c-9b98-c0fe159fb0dd"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "icon"
+            },
+            "designerId": "a205d83e-337e-4fc2-bdea-5494562f7a54"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "name"
+            },
+            "designerId": "7f1ac8db-8f4c-48dc-b7d8-05b97421e5d6"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "type"
+            },
+            "designerId": "948c216a-4b67-4ecf-8871-5a49ccb9b633"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "data1"
+            },
+            "designerId": "6922af75-64c9-42cc-8627-e3367365c5c7"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "nextScreen"
+            },
+            "designerId": "3d69b465-d765-4ba1-9464-7bc7188d2852"
+        }
+    ]
+}
